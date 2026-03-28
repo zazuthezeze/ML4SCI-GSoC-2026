@@ -1,0 +1,2 @@
+Model: model4_latent256_with_scheduler
+Test MSE: 0.000346

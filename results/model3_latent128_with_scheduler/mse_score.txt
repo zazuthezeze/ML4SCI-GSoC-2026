@@ -1,0 +1,2 @@
+Model: model3_latent128_with_scheduler
+Test MSE: 0.000369
