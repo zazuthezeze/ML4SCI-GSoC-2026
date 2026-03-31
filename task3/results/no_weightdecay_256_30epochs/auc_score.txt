@@ -1,0 +1,1 @@
+No Weight Decay 256dim 30 Epochs — Test ROC-AUC: 0.6833

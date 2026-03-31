@@ -1,0 +1,1 @@
+Contrastive + Weight Decay + High Dropout 256dim 30 Epochs — Test ROC-AUC: 0.7759
